@@ -7,7 +7,9 @@ Aqui você encontrará alguns dos meus projetos, onde aplico o que estou aprende
 🔭 Atualmente estou focado em:
 
 Desenvolvimento web com JavaScript, HTML e CSS
+
 Aprendizado de frameworks modernos como React
+
 Projetos acadêmicos e pessoais para ganhar experiência prática
 
 💬 Sinta-se à vontade para entrar em contato comigo para discussões sobre tecnologia, colaboração em projetos ou apenas para trocar ideias!
