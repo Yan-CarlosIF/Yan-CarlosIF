@@ -13,7 +13,9 @@ Aqui você encontrará alguns dos meus projetos, onde aplico o que estou aprende
 </p>
 
 
-Aprendizado de frameworks modernos como React
+Aprendizado de frameworks modernos como React e Angular
+
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) ![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg)
 
 Projetos acadêmicos e pessoais para ganhar experiência prática
 
