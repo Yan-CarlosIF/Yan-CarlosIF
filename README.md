@@ -15,7 +15,11 @@ Aqui você encontrará alguns dos meus projetos, onde aplico o que estou aprende
 
 Aprendizado de frameworks modernos como React e Angular
 
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) ![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" />
+</p>
+
 
 Projetos acadêmicos e pessoais para ganhar experiência prática
 
