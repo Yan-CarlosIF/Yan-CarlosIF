@@ -21,6 +21,7 @@ Aprendizado de frameworks modernos como React e Angular
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" />
 </p>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-CarlosIF&show_icons=true)
 
 Projetos acadêmicos e pessoais para ganhar experiência prática
 
