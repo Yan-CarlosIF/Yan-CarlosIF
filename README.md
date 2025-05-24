@@ -14,10 +14,12 @@ Meu objetivo é me tornar um desenvolvedor completo e competente, contribuindo c
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Yan-CarlosIF&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=yan-carlosif&show_icons=true&theme=tokyonight&border_radius=10" />
-  
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-carlosif&show_icons=true&bg_color=1a1b27&text_color=38bdae" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=yan-carlosif&show_icons=true&theme=tokyonight&border_radius=10" />
+</div>
+ 
 ---
 
 ### 📫 Entre em contato
