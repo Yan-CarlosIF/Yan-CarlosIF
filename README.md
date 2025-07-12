@@ -8,7 +8,7 @@ Meu objetivo é me tornar um desenvolvedor completo e competente, contribuindo c
 
 ### 🚀 Tech Stack & Skills
 
-![Skills](https://skills-icons.vercel.app/api/icons?i=ts,nextjs,react,vite,tailwind,node,pnpm,express,fastify,mysql,prisma,c)
+![Skills](https://skills-icons.vercel.app/api/icons?i=ts,nextjs,react,vite,tailwind,node,pnpm,express,fastify,jest,mysql,prisma,c)
 
 ---
 
