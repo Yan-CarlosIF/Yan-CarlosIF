@@ -24,5 +24,4 @@ Meu objetivo é me tornar um desenvolvedor completo e competente, contribuindo c
 
 ### 📫 Entre em contato
 
-💼 [LinkedIn](https://www.linkedin.com/in/yancarlosribeiro/)  
-🌐 [Portfólio](http://portfolio-yan-seven.vercel.app/)
+💼 [LinkedIn](https://www.linkedin.com/in/yancarlosribeiro/)
