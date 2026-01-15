@@ -14,11 +14,7 @@ Meu objetivo é me tornar um desenvolvedor completo e competente, contribuindo c
 
 ### 📊 GitHub Stats
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan-carlosif&show_icons=true&theme=tokyonight" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yan-CarlosIF&theme=tokyonight" alt="GitHub Streak" /></a>
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yan-CarlosIF&theme=tokyonight" alt="GitHub Streak" /></a>
  
 ---
 
