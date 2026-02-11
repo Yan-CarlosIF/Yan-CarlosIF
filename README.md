@@ -39,8 +39,8 @@
 ### 🚀 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skills-icons.vercel.app/api/icons?i=js,ts,nextjs,react,vite,shadcnui,chakraui,reactnative,expo,tailwind" />
-  <img src="https://skills-icons.vercel.app/api/icons?i=node,express,fastify,jest,mysql,docker,prisma,typeorm" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=js,ts,nextjs,vite,react,shadcnui,chakraui,tailwind,reactnative,expo" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=node,express,fastify,jest,vitest,beekeeper,postgresql,docker,prisma,typeorm" />
 </p>
 
 ---
